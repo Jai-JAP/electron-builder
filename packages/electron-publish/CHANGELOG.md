@@ -1,5 +1,11 @@
 # electron-publish
 
+## 23.0.9
+
+### Patch Changes
+
+- [#6840](https://github.com/electron-userland/electron-builder/pull/6840) [`e9ba7500`](https://github.com/electron-userland/electron-builder/commit/e9ba75005dda39f03c04e37a5d46a1bbe634c189) Thanks [@adelphes](https://github.com/adelphes)! - fix: set github release name to match the app version
+
 ## 23.0.8
 
 ### Patch Changes
